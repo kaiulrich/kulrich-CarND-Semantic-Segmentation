@@ -71,4 +71,24 @@ The hyperparameters used for training are:
   - epochs: 48
   - batch_size: 5
   
-  
+  ---
+
+## Results
+
+---
+
+## Improvements
+
+The amount and quality of the traning images has a big influence on the result. 
+### Augment Images
+To rise the trainingdata it is possible to create aditional imagesfrom the original testdata, like
+ 
+* Normalisation, Fliped, Brightness, Sharing, Shadowing
+* Work on other colorspaces like HLS etc
+* Work with thresholded binary images
+
+### Train Inference 
+It is possible to get aditional data form other sources like  the cityscapes dataset  https://www.cityscapes-dataset.com/ . It take quite some recources ( On a GPU with at least 10 teraFLOPS)
+
+### Use Keras
+For a easier handling it could be an improvement to use keras. augmentation batching and documentation comes ot of the box.
