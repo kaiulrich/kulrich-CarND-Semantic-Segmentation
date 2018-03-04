@@ -89,10 +89,10 @@ The used data are extracted from /results/1520108488.8096638/console.log
 
 ### Example Result images
 
-![alt text](./runs/1520108488.8096638/um_000009.png "Result Image 9")
-![alt text](./runs/1520108488.8096638/um_000060.png "Result Image 60")
-![alt text](./runs/1520108488.8096638/um_000077.png "Result Image 77")
-![alt text](./runs/1520108488.8096638/um_000081.png "Result Image 81 ")
+![alt text](./results/1520108488.8096638/um_000009.png "Result Image 9")
+![alt text](./results/1520108488.8096638/um_000060.png "Result Image 60")
+![alt text](./results/1520108488.8096638/um_000077.png "Result Image 77")
+![alt text](./results/1520108488.8096638/umm_000081.png "Result Image 81 ")
 
 ---
 
