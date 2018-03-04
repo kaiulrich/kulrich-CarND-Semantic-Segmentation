@@ -100,4 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-RUNS/
+models/
+__temp__.mp4
+runs/

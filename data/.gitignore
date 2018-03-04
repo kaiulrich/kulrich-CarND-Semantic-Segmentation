@@ -2,6 +2,3 @@ data_road/
 vgg/
 data_road.zip
 vgg.zip
-gtFine_trainvaltest/
-
-vgg16.npy
